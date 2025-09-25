@@ -1,0 +1,3 @@
+../Core/Src/hardware/hardwareSourceFiles/motors.c:4:6:motors_setup	1
+../Core/Src/hardware/hardwareSourceFiles/motors.c:12:6:motors_control	2
+../Core/Src/hardware/hardwareSourceFiles/motors.c:21:6:motors_stop	1

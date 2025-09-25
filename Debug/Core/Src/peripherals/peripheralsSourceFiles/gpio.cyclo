@@ -1,0 +1,3 @@
+../Core/Src/peripherals/peripheralsSourceFiles/gpio.c:26:6:gpio_setupPin	4
+../Core/Src/peripherals/peripheralsSourceFiles/gpio.c:52:6:gpio_writePin	5
+../Core/Src/peripherals/peripheralsSourceFiles/gpio.c:68:9:gpio_readPin	1

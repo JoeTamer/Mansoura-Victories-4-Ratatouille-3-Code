@@ -1,0 +1,9 @@
+../Core/Src/peripherals/peripheralsSourceFiles/i2c.c:22:6:i2c_setup	8
+../Core/Src/peripherals/peripheralsSourceFiles/i2c.c:76:9:i2c_start	3
+../Core/Src/peripherals/peripheralsSourceFiles/i2c.c:91:9:i2c_address	4
+../Core/Src/peripherals/peripheralsSourceFiles/i2c.c:115:6:i2c_sendData	3
+../Core/Src/peripherals/peripheralsSourceFiles/i2c.c:128:6:i2c_receiveData	4
+../Core/Src/peripherals/peripheralsSourceFiles/i2c.c:149:6:i2c_stop	2
+../Core/Src/peripherals/peripheralsSourceFiles/i2c.c:170:9:i2c_scan	4
+../Core/Src/peripherals/peripheralsSourceFiles/i2c.c:188:6:i2c_write	3
+../Core/Src/peripherals/peripheralsSourceFiles/i2c.c:206:6:i2c_read	3

@@ -1,0 +1,3 @@
+../Core/Src/peripherals/peripheralsSourceFiles/systick.c:18:6:systick_setup	4	static
+../Core/Src/peripherals/peripheralsSourceFiles/systick.c:32:6:systick_milliSecond	4	static
+../Core/Src/peripherals/peripheralsSourceFiles/systick.c:41:6:systick_delayMillis	16	static

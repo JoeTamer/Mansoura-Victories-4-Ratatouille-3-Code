@@ -1,0 +1,3 @@
+../Core/Src/peripherals/peripheralsSourceFiles/uart.c:31:6:uart_setup	1
+../Core/Src/peripherals/peripheralsSourceFiles/uart.c:54:6:uart_sendChar	2
+../Core/Src/peripherals/peripheralsSourceFiles/uart.c:67:6:uart_send	2

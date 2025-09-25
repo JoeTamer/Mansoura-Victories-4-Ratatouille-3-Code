@@ -1,0 +1,6 @@
+../Core/Src/hardware/hardwareSourceFiles/mpu6050.c:8:6:mpu6050_setup	5
+../Core/Src/hardware/hardwareSourceFiles/mpu6050.c:33:6:mpu6050_start	1
+../Core/Src/hardware/hardwareSourceFiles/mpu6050.c:44:6:mpu6050_address	1
+../Core/Src/hardware/hardwareSourceFiles/mpu6050.c:60:6:mpu6050_tx	1
+../Core/Src/hardware/hardwareSourceFiles/mpu6050.c:67:6:mpu6050_rx	6
+../Core/Src/hardware/hardwareSourceFiles/mpu6050.c:107:6:mpu6050_readGyro	1
